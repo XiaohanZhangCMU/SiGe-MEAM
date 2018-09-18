@@ -1,0 +1,173 @@
+\begin{thebibliography}{19}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\href}[2]{#2}
+\providecommand{\path}[1]{#1}
+\providecommand{\DOIprefix}{doi:}
+\providecommand{\ArXivprefix}{arXiv:}
+\providecommand{\URLprefix}{URL: }
+\providecommand{\Pubmedprefix}{pmid:}
+\providecommand{\doi}[1]{\href{http://dx.doi.org/#1}{\path{#1}}}
+\providecommand{\Pubmed}[1]{\href{pmid:#1}{\path{#1}}}
+\providecommand{\bibinfo}[2]{#2}
+\ifx\xfnm\relax \def\xfnm[#1]{\unskip,\space#1}\fi
+%Type = Misc
+\bibitem[{Godet et~al.(2009)Godet, Hirel, Brochard, and
+  Pizzagalli}]{godet2009evidence}
+\bibinfo{author}{J.~Godet}, \bibinfo{author}{P.~Hirel},
+  \bibinfo{author}{S.~Brochard}, \bibinfo{author}{L.~Pizzagalli},
+  \bibinfo{title}{Evidence of two plastic regimes controlled by dislocation
+  nucleation in silicon nanostructures}, \bibinfo{year}{2009}.
+%Type = Article
+\bibitem[{Pizzagalli et~al.(2013)Pizzagalli, Godet, Gu{\'e}nol{\'e}, Brochard,
+  Holmstrom, Nordlund, and Albaret}]{pizzagalli2013new}
+\bibinfo{author}{L.~Pizzagalli}, \bibinfo{author}{J.~Godet},
+  \bibinfo{author}{J.~Gu{\'e}nol{\'e}}, \bibinfo{author}{S.~Brochard},
+  \bibinfo{author}{E.~Holmstrom}, \bibinfo{author}{K.~Nordlund},
+  \bibinfo{author}{T.~Albaret},
+\newblock \bibinfo{title}{A new parametrization of the stillinger--weber
+  potential for an improved description of defects and plasticity of silicon},
+\newblock \bibinfo{journal}{Journal of Physics: Condensed Matter}
+  \bibinfo{volume}{25} (\bibinfo{year}{2013}) \bibinfo{pages}{055801}.
+%Type = Article
+\bibitem[{Ryu and Cai(2008)}]{ryu2008comparison}
+\bibinfo{author}{S.~Ryu}, \bibinfo{author}{W.~Cai},
+\newblock \bibinfo{title}{Comparison of thermal properties predicted by
+  interatomic potential models},
+\newblock \bibinfo{journal}{Modelling and Simulation in Materials Science and
+  Engineering} \bibinfo{volume}{16} (\bibinfo{year}{2008})
+  \bibinfo{pages}{085005}.
+%Type = Article
+\bibitem[{Kang and Cai(2007)}]{kang2007brittle}
+\bibinfo{author}{K.~Kang}, \bibinfo{author}{W.~Cai},
+\newblock \bibinfo{title}{Brittle and ductile fracture of semiconductor
+  nanowires--molecular dynamics simulations},
+\newblock \bibinfo{journal}{Philosophical Magazine} \bibinfo{volume}{87}
+  (\bibinfo{year}{2007}) \bibinfo{pages}{2169--2189}.
+%Type = Article
+\bibitem[{Kang and Cai(2010)}]{kang2010size}
+\bibinfo{author}{K.~Kang}, \bibinfo{author}{W.~Cai},
+\newblock \bibinfo{title}{Size and temperature effects on the fracture
+  mechanisms of silicon nanowires: molecular dynamics simulations},
+\newblock \bibinfo{journal}{International Journal of Plasticity}
+  \bibinfo{volume}{26} (\bibinfo{year}{2010}) \bibinfo{pages}{1387--1401}.
+%Type = Article
+\bibitem[{Grochola et~al.(2010)Grochola, Russo, and
+  Snook}]{grochola2010modified}
+\bibinfo{author}{G.~Grochola}, \bibinfo{author}{S.~P. Russo},
+  \bibinfo{author}{I.~K. Snook},
+\newblock \bibinfo{title}{A modified embedded atom method interatomic potential
+  for alloy sige},
+\newblock \bibinfo{journal}{Chemical Physics Letters} \bibinfo{volume}{493}
+  (\bibinfo{year}{2010}) \bibinfo{pages}{57--60}.
+%Type = Article
+\bibitem[{Baskes(1992)}]{baskes1992modified}
+\bibinfo{author}{M.~Baskes},
+\newblock \bibinfo{title}{Modified embedded-atom potentials for cubic materials
+  and impurities},
+\newblock \bibinfo{journal}{Physical Review B} \bibinfo{volume}{46}
+  (\bibinfo{year}{1992}) \bibinfo{pages}{2727}.
+%Type = Article
+\bibitem[{Lee et~al.(2003)Lee, Shim, and Baskes}]{lee2003semiempirical}
+\bibinfo{author}{B.-J. Lee}, \bibinfo{author}{J.-H. Shim},
+  \bibinfo{author}{M.~Baskes},
+\newblock \bibinfo{title}{Semiempirical atomic potentials for the fcc metals
+  cu, ag, au, ni, pd, pt, al, and pb based on first and second nearest-neighbor
+  modified embedded atom method},
+\newblock \bibinfo{journal}{Physical Review B} \bibinfo{volume}{68}
+  (\bibinfo{year}{2003}) \bibinfo{pages}{144112}.
+%Type = Article
+\bibitem[{Lee et~al.(2001)Lee, Baskes, Kim, and Cho}]{lee2001second}
+\bibinfo{author}{B.-J. Lee}, \bibinfo{author}{M.~Baskes},
+  \bibinfo{author}{H.~Kim}, \bibinfo{author}{Y.~K. Cho},
+\newblock \bibinfo{title}{Second nearest-neighbor modified embedded atom method
+  potentials for bcc transition metals},
+\newblock \bibinfo{journal}{Physical Review B} \bibinfo{volume}{64}
+  (\bibinfo{year}{2001}) \bibinfo{pages}{184102}.
+%Type = Article
+\bibitem[{Kim et~al.(2006)Kim, Lee, and Baskes}]{kim2006modified}
+\bibinfo{author}{Y.-M. Kim}, \bibinfo{author}{B.-J. Lee},
+  \bibinfo{author}{M.~Baskes},
+\newblock \bibinfo{title}{Modified embedded-atom method interatomic potentials
+  for ti and zr},
+\newblock \bibinfo{journal}{Physical Review B} \bibinfo{volume}{74}
+  (\bibinfo{year}{2006}) \bibinfo{pages}{014101}.
+%Type = Article
+\bibitem[{Swadener and Picraux(2009)}]{swadener2009strain}
+\bibinfo{author}{J.~G. Swadener}, \bibinfo{author}{S.~T. Picraux},
+\newblock \bibinfo{title}{Strain distributions and electronic property
+  modifications in si/ge axial nanowire heterostructures},
+\newblock \bibinfo{journal}{Journal of applied physics} \bibinfo{volume}{105}
+  (\bibinfo{year}{2009}) \bibinfo{pages}{044310}.
+%Type = Article
+\bibitem[{Read and Tewary(2007)}]{read2007multiscale}
+\bibinfo{author}{D.~Read}, \bibinfo{author}{V.~Tewary},
+\newblock \bibinfo{title}{Multiscale model of near-spherical germanium quantum
+  dots in silicon},
+\newblock \bibinfo{journal}{Nanotechnology} \bibinfo{volume}{18}
+  (\bibinfo{year}{2007}) \bibinfo{pages}{105402}.
+%Type = Article
+\bibitem[{Baskes(1997)}]{baskes1997determination}
+\bibinfo{author}{M.~Baskes},
+\newblock \bibinfo{title}{Determination of modified embedded atom method
+  parameters for nickel},
+\newblock \bibinfo{journal}{Materials Chemistry and Physics}
+  \bibinfo{volume}{50} (\bibinfo{year}{1997}) \bibinfo{pages}{152--158}.
+%Type = Article
+\bibitem[{Rose et~al.(1984)Rose, Smith, Guinea, and
+  Ferrante}]{rose1984universal}
+\bibinfo{author}{J.~H. Rose}, \bibinfo{author}{J.~R. Smith},
+  \bibinfo{author}{F.~Guinea}, \bibinfo{author}{J.~Ferrante},
+\newblock \bibinfo{title}{Universal features of the equation of state of
+  metals},
+\newblock \bibinfo{journal}{Physical Review B} \bibinfo{volume}{29}
+  (\bibinfo{year}{1984}) \bibinfo{pages}{2963}.
+%Type = Article
+\bibitem[{Ryu et~al.(2009)Ryu, Weinberger, Baskes, and Cai}]{ryu2009improved}
+\bibinfo{author}{S.~Ryu}, \bibinfo{author}{C.~R. Weinberger},
+  \bibinfo{author}{M.~I. Baskes}, \bibinfo{author}{W.~Cai},
+\newblock \bibinfo{title}{Improved modified embedded-atom method potentials for
+  gold and silicon},
+\newblock \bibinfo{journal}{Modelling and Simulation in Materials Science and
+  Engineering} \bibinfo{volume}{17} (\bibinfo{year}{2009})
+  \bibinfo{pages}{075008}.
+%Type = Article
+\bibitem[{Dismukes et~al.(1964)Dismukes, Ekstrom, Steigmeier, Kudman, and
+  Beers}]{dismukes1964thermal}
+\bibinfo{author}{J.~Dismukes}, \bibinfo{author}{L.~Ekstrom},
+  \bibinfo{author}{E.~Steigmeier}, \bibinfo{author}{I.~Kudman},
+  \bibinfo{author}{D.~Beers},
+\newblock \bibinfo{title}{Thermal and electrical properties of heavily doped
+  ge-si alloys up to 1300 k},
+\newblock \bibinfo{journal}{Journal of Applied Physics} \bibinfo{volume}{35}
+  (\bibinfo{year}{1964}) \bibinfo{pages}{2899--2907}.
+%Type = Article
+\bibitem[{Wang et~al.(2016)Wang, Santana, and Cai}]{wang2016ge}
+\bibinfo{author}{Y.~Wang}, \bibinfo{author}{A.~Santana},
+  \bibinfo{author}{W.~Cai},
+\newblock \bibinfo{title}{Au--ge meam potential fitted to the binary phase
+  diagram},
+\newblock \bibinfo{journal}{Modelling and Simulation in Materials Science and
+  Engineering} \bibinfo{volume}{25} (\bibinfo{year}{2016})
+  \bibinfo{pages}{025004}.
+%Type = Article
+\bibitem[{Plimpton(1995)}]{plimpton1995fast}
+\bibinfo{author}{S.~Plimpton},
+\newblock \bibinfo{title}{Fast parallel algorithms for short-range molecular
+  dynamics},
+\newblock \bibinfo{journal}{Journal of computational physics}
+  \bibinfo{volume}{117} (\bibinfo{year}{1995}) \bibinfo{pages}{1--19}.
+%Type = Article
+\bibitem[{Grydlik et~al.(2012)Grydlik, Boioli, Groiss, Gatti, Brehm,
+  Montalenti, Devincre, Sch{\"a}ffler, and Miglio}]{grydlik2012misfit}
+\bibinfo{author}{M.~Grydlik}, \bibinfo{author}{F.~Boioli},
+  \bibinfo{author}{H.~Groiss}, \bibinfo{author}{R.~Gatti},
+  \bibinfo{author}{M.~Brehm}, \bibinfo{author}{F.~Montalenti},
+  \bibinfo{author}{B.~Devincre}, \bibinfo{author}{F.~Sch{\"a}ffler},
+  \bibinfo{author}{L.~Miglio},
+\newblock \bibinfo{title}{Misfit dislocation gettering by substrate
+  pit-patterning in sige films on si (001)},
+\newblock \bibinfo{journal}{Applied Physics Letters} \bibinfo{volume}{101}
+  (\bibinfo{year}{2012}) \bibinfo{pages}{013119}.
+
+\end{thebibliography}
